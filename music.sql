@@ -25,3 +25,4 @@ CREATE TABLE songs (
     FOREIGN KEY (album_id) REFERENCES albums(id)
 );
 
+
